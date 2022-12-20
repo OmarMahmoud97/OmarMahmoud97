@@ -1,4 +1,5 @@
-### Hi 👋, I'm Omar
+<h1 align="center"> Hi 👋, I'm Omar</h1>
+
 <h3 align="center">Hi I'm a Software developer that loves coding and building projects.</h3>
 
 <p align="center">
