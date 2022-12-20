@@ -2,7 +2,7 @@
 <h3 align="center">www.Omar-Dev.com</h3>
 
 
-<h3 align="center">A Software engineer with  a passion for problem solving while pushing the creative limitations of the web to provide interactive and immersive websites for the user.</h3>
+<h3 align="center">A Software engineer with a passion for problem solving, while also pushing the creative limitations of the technology to provide interactive and immersive experiences for the user.</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/omar-mahmoud97/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/omar-mahmoud97" height="30" width="40" /></a>
