@@ -1,5 +1,5 @@
 <h1 align="center">Omar Mahmoud</h1>
-<a width="100%" align="center" href="https://www.Omar-Dev.com" target="_blank" >Portfolio</a>
+<h2 align="center"><a width="100%" align="center" href="https://www.Omar-Dev.com" target="_blank" >Portfolio</a><h2>
 
 
 <h3 align="center">A Software engineer with a passion for problem solving, while also pushing the creative limitations of the technology to provide interactive and immersive experiences for the user.</h3>
