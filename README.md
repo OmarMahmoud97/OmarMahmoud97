@@ -2,10 +2,9 @@
 
 
 </h1>
-====================================================================================================================================
 
-Developer and Designer
-----------------------
+<h2 align="center" >Developer and Designer </h2>
+
 
 A Software engineer with a passion for problem-solving, while also pushing the creative limitations of technology to provide interactive and immersive experiences for the user!
 
