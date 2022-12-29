@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ====================================================================================================================================
 
 Developer and Designer
-----------------------
+
 
 A Software engineer with a passion for problem-solving, while also pushing the creative limitations of technology to provide interactive and immersive experiences for the user!
 
