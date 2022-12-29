@@ -1,7 +1,7 @@
-<p align="center">Hi My name is Omar Mahmoud
+<h1 align="center">Hi <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="36" height="36" alt="JavaScript" /></a> My name is Omar Mahmoud
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="36" height="36" alt="JavaScript" /></a>
-</p>
+
+</h1>
 ====================================================================================================================================
 
 Developer and Designer
