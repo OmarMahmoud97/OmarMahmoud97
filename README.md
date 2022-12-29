@@ -6,7 +6,7 @@
 <h3 align="center" >Developer and Designer </h3>
 
 
-A Software engineer with a passion for problem-solving, while also pushing the creative limitations of technology to provide interactive and immersive experiences for the user!
+<p align="center" >A Software engineer with a passion for problem-solving, while also pushing the creative limitations of technology to provide interactive and immersive experiences for the user! </p>
 
 * 🌍  I'm based in London
 * 🖥️  See my portfolio at [Omar-Dev](http://www.Omar-Dev.com)
