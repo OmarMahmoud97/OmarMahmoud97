@@ -3,7 +3,7 @@
 
 </h1>
 
-<h2 align="center" >Developer and Designer </h2>
+<h3 align="center" >Developer and Designer </h3>
 
 
 A Software engineer with a passion for problem-solving, while also pushing the creative limitations of technology to provide interactive and immersive experiences for the user!
