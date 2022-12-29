@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Omar Mahmoud
+<h1 align="center"> Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Omar Mahmoud </h1>
 <h3 align="center"><a width="100%" align="center" href="https://www.Omar-Dev.com">Portfolio</a><h3>
 
 <h3 align="center">A Software engineer with a passion for problem solving, while also pushing the creative limitations of technology to provide interactive and immersive experiences for the user!</h3>
