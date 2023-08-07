@@ -10,7 +10,7 @@
 
 * 🌍  I'm based in London
 * 🖥️  See my portfolio at [Omar-Dev](http://www.Omar-Dev.com)
-* 🧠  I'm learning NextJs, Typescript and Three.js
+* 🧠  I'm learning Advanced CRM Implementation and Three.js
 * ⚡  I am an Ex Zoo Keeper that has broken into the world of technology
 
 <h3 align="center" >Skills</p>
